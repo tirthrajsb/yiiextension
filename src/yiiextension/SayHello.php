@@ -1,5 +1,5 @@
 <?php
-   namespace HelloWorld;
+   namespace yiiextension;
    class SayHello {
       public static function world() {
          return 'Hello World, Composer!';
