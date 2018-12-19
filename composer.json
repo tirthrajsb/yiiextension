@@ -1,0 +1,14 @@
+{
+    "name": "girnarsoft/yii-extension",
+    "authors": [
+        {
+            "name": "girnarsoft"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "yiiextension": "src/"
+        }
+    }
+}
